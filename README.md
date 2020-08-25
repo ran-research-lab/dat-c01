@@ -1,1 +1,1 @@
-# catch example
+# highestFreq using Direct Address Table
